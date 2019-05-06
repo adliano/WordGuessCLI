@@ -1,0 +1,25 @@
+{
+  "name": "com.alves.wordguesscli",
+  "version": "1.0.0",
+  "description": "Node Game using command line interface",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adliano/WordGuessCLI.git"
+  },
+  "keywords": [
+    "wordguesscli"
+  ],
+  "author": "Adriano Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adliano/WordGuessCLI/issues"
+  },
+  "homepage": "https://github.com/adliano/WordGuessCLI#readme"
+}

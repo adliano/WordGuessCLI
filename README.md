@@ -1,2 +1,3 @@
-# WordGuessCLI
-Word Guess using node CLI
+# Word Guess CLI
+
+Word Guess Game using node command line interface.
