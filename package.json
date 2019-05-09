@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/adliano/WordGuessCLI#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "jsdoc": "^3.6.1"
   }
 }
